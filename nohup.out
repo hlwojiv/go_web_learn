@@ -1,0 +1,36 @@
+map[]
+path:  /
+scheme:  
+[]
+map[]
+path:  /
+scheme:  
+[]
+map[]
+path:  /
+scheme:  
+[]
+map[?url_long:[fuck] url_long:[you]]
+path:  /
+scheme:  
+[you]
+key:  ?url_long
+val:  fuck
+key:  url_long
+val:  you
+map[url_long:[fuck you]]
+path:  /
+scheme:  
+[fuck you]
+key:  url_long
+val:  fuckyou
+map[url_long:[fuck you]]
+path:  /
+scheme:  
+[fuck you]
+key:  url_long
+val:  fuckyou
+map[]
+path:  /favicon.ico
+scheme:  
+[]
